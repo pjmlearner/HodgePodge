@@ -1,0 +1,15 @@
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\bin\Debug\net7.0\ObserverPattern.exe
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\bin\Debug\net7.0\ObserverPattern.deps.json
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\bin\Debug\net7.0\ObserverPattern.runtimeconfig.json
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\bin\Debug\net7.0\ObserverPattern.dll
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\bin\Debug\net7.0\ObserverPattern.pdb
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.AssemblyReference.cache
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfoInputs.cache
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfo.cs
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.dll
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\refint\ObserverPattern.dll
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.pdb
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ObserverPattern.genruntimeconfig.cache
+D:\Repos\Git\HodgePodge\AnOOApp\ObserverPattern\obj\Debug\net7.0\ref\ObserverPattern.dll
